@@ -1,7 +1,2 @@
 # rumor-project
-echo "# rumor-project" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/zxcGrace/rumor-project.git
-git push -u origin master
+Consists all the data and models I built for the vaccine misinformation detecion with correction of reasoning project
